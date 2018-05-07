@@ -27,7 +27,7 @@ class App extends Component {
             return acc;
         }, []);
         
-        if(!comments.length) {
+        if(!query) {
             comments = this.comments;
         }
 
