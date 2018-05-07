@@ -1,0 +1,44 @@
+body {
+    background: #f9f9f9;
+}
+
+.comment-box {
+    border-radius: 5px 5px 0 0;
+    background:#efefef;
+    padding:15px;
+    border: 1px solid #f1f1f1;
+}
+
+.comment-list{
+    background:#FFF;
+    border-radius: 0 0 5px 5px;
+    border: 1px solid #f1f1f1;
+}
+
+.comment-list ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 15px 0;
+}
+
+.comment-list li {
+    margin: 15px 0 0 0;
+}
+
+
+.comment-list li img {
+    border-radius: 15px;
+}
+
+.comment-filter {
+    margin: 15px 0 0 0;
+}
+
+.gravatar {
+    cursor: pointer;
+}
+
+#comment-box-app {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
