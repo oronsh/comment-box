@@ -36,7 +36,7 @@ class App extends Component {
         });
     }
 
-    async componentWillMount() {
+    async componentDidMount() {
         await this.fetchComments();
     }
 
