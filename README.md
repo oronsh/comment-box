@@ -1,8 +1,8 @@
 # Comments App Exercise
-A simple comment box that supports gravatrs.
-The app includes a server and a client.
-The server is built on Nodejs and Express using Mongodb as the persistance layer.
-The client is built on React
+A simple comment box that supports gravatrs.\n
+The app includes a server and a client.\n
+The server is built on Nodejs and Express using Mongodb as the persistance layer.\n
+The client is built on React.
 
 ## Installation
 ```bash
