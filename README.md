@@ -2,8 +2,10 @@
 A simple comment box that supports gravatrs.
 
 ## Installation
-git clone
+git clone https://github.com/oronsh/comment-box.git
 
-npm install 
+cd comment-box
+
+npm install
 
 npm start
