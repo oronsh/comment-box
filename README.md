@@ -1,4 +1,4 @@
-# Comments App Exercise
+# Comment Box
 A simple comment box that supports gravatrs.
 The app includes a server and a client.
 The server is built on Nodejs and Express using Mongodb as the persistence layer and the client is built on React.
@@ -14,4 +14,4 @@ npm start
 ```
 
 The app is configured to run on port 3000 and create a default collection named "comment-box".
-You can modify it in the **config.js** file. 
+You can modify it in the **config.js** file.
