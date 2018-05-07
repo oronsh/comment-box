@@ -13,5 +13,5 @@ npm install
 npm start
 ```
 
-The app is configured to run on port 3000 and create a default collection named "comment-box".
+The app is configured to run on port 3000 and create a default collection named "comments-app".
 You can modify it in the **config.js** file.
